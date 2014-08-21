@@ -1,4 +1,6 @@
 getting-and-cleaning-data
 =========================
 
-This repository is used for storing code for this course from Coursera.
+Put this R script in folder that contains "UCI HAR Dataset" folder
+
+and run it.
